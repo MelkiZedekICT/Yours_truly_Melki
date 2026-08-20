@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- 📻 swap this for your own banner / gif -->
-<img src="https://your-banner-url-here.png" width="100%" alt="lofi terminal banner"/>
+<img src="1.png" width="100%" alt="lofi terminal banner 1"/>
+<img src="2.png" width="100%" alt="lofi terminal banner 2"/>
 
 </div>
 
