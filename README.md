@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- 📻 swap this for your own banner / gif -->
-<img src="1.png" width="100%" alt="lofi terminal banner 1"/>
 <img src="2.png" width="100%" alt="lofi terminal banner 2"/>
 
 </div>
